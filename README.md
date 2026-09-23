@@ -31,6 +31,7 @@ A responsive, modern personal portfolio website built to showcase my projects, t
    git clone https://github.com/suhaniHub2403/Personal-Portfolio.git
    ```
  ## 📬 Contact With Me
-  -**GitHub:** [@suhaniHub2403](https://github.com/suhaniHub2403)
-  -**LinkedIn:**[Suhani Kumari] (https://www.linkedin.com/in/suhani-kumari-751566392)
-  -**Email:**suhanikri2403@gmail.com
+
+* **GitHub:** [@suhaniHub2403](https://github.com/suhaniHub2403)
+* **LinkedIn:** [Suhani Kumari](https://www.linkedin.com/in/suhani-kumari-751566392)
+* **Email:** suhanikri2403@gmail.com
